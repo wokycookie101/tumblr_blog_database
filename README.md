@@ -6,9 +6,7 @@ I follow, arguably, thousands of talented artists on Tumblr, and with the way Tu
 
 Here, I've created a software that can store, update, delete, and list all of the blogs that I've put into it. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/p5uZgSWEo98)
 
 # Development Environment
 
